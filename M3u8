@@ -1,0 +1,1220 @@
+
+#EXTM3U
+#EXTINF:-1,13tv
+http://usuarios.club/usuarios/src4/13tv/iptv/club.m3u8
+
+#EXTINF:-1,A&E
+http://usuarios.club/usuarios/src1/AEHD/iptv/club.m3u8
+
+#EXTINF:-1,A&E (Opcion 2)
+http://usuarios.club/usuarios/src2/AE_MUNDO_HD/iptv/club.m3u8
+
+#EXTINF:-1,A&E (720p)
+http://usuarios.club/usuarios/src2/AE_MUNDO_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,A3Series
+http://usuarios.club/usuarios/src4/A3Series/iptv/club.m3u8
+
+#EXTINF:-1,ADN 40
+http://usuarios.club/usuarios/src4/ADN40/iptv/club.m3u8
+
+#EXTINF:-1,Alf 24/7
+http://usuarios.club/usuarios/src3/Alf/iptv/club.m3u8
+
+#EXTINF:-1,AMC
+http://usuarios.club/usuarios/src1/AMC/iptv/club.m3u8
+
+#EXTINF:-1,AMC (Opcion 2)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club.m3u8
+
+#EXTINF:-1,AMC (720p)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Animal Planet
+http://usuarios.club/usuarios/src1/AnimalPlanet/iptv/club.m3u8
+
+#EXTINF:-1,Animal Planet (Opcion 2)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/iptv/club.m3u8
+
+#EXTINF:-1,Animal Planet (720p)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Anime 24H
+http://usuarios.club/usuarios/src4/Anime24H/iptv/club.m3u8
+
+#EXTINF:-1,Antena 3
+http://usuarios.club/usuarios/src4/Antena3/iptv/club.m3u8
+
+#EXTINF:-1,Antena 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/ANTENA3/iptv/club.m3u8
+
+#EXTINF:-1,Antena 3 (720p)
+http://usuarios.club/usuarios/src2/ANTENA3/iptv/club/hd.m3u8
+
+#EXTINF:-1,Aparecida Brasil
+http://usuarios.club/usuarios/src4/AparecidaBrasil/iptv/club.m3u8
+
+#EXTINF:-1,Aristegui Noticias
+http://usuarios.club/usuarios/src4/AristeguiNoticias/iptv/club.m3u8
+
+#EXTINF:-1,AXN
+http://usuarios.club/usuarios/src5/AXN/iptv/club.m3u8
+
+#EXTINF:-1,AXN (Opcion 2)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club.m3u8
+
+#EXTINF:-1,AXN (720p)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Az Cinema
+http://usuarios.club/usuarios/src5/AzCinema/iptv/club.m3u8
+
+#EXTINF:-1,Az Clic
+http://usuarios.club/usuarios/src5/AzClic/iptv/club.m3u8
+
+#EXTINF:-1,Az Corazón
+http://usuarios.club/usuarios/src1/AzCorazon/iptv/club.m3u8
+
+#EXTINF:-1,Az Corazón (Opcion 2)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/iptv/club.m3u8
+
+#EXTINF:-1,Az Corazón (720p)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Az Mundo (Opcion 2)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/iptv/club.m3u8
+
+#EXTINF:-1,Az Mundo (720p)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Azteca +
+http://usuarios.club/usuarios/src4/AztecaMas/iptv/club.m3u8
+
+#EXTINF:-1,Azteca 13
+http://usuarios.club/usuarios/src4/Azteca13/iptv/club.m3u8
+
+#EXTINF:-1,Azteca 7
+http://usuarios.club/usuarios/src1/Azteca7/iptv/club.m3u8
+
+#EXTINF:-1,Baby TV
+http://usuarios.club/usuarios/src5/BabyTV/iptv/club.m3u8
+
+#EXTINF:-1,Bandamax
+http://usuarios.club/usuarios/src1/Bandamax/iptv/club.m3u8
+
+#EXTINF:-1,BeinSports Ñ
+http://usuarios.club/usuarios/src5/BeinSportsN/iptv/club.m3u8
+
+#EXTINF:-1,BeinSports Ñ HD
+http://usuarios.club/usuarios/src5/Bein/iptv/club.m3u8
+
+#EXTINF:-1,Boomerang
+http://usuarios.club/usuarios/src1/Boomerang/iptv/club.m3u8
+
+#EXTINF:-1,Boomerang (Opcion 2)
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club.m3u8
+
+#EXTINF:-1,Boomerang (720p)
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club/hd.m3u8
+
+#EXTINF:-1,Cali TV
+http://usuarios.club/usuarios/src4/CaliTV/iptv/club.m3u8
+
+#EXTINF:-1,Canal 2 Televicentro
+http://usuarios.club/usuarios/src4/Canal2Televicentro/iptv/club.m3u8
+
+#EXTINF:-1,Canal 22
+http://usuarios.club/usuarios/src4/Canal22/iptv/club.m3u8
+
+#EXTINF:-1,Canal 5
+http://usuarios.club/usuarios/src1/Canal5/iptv/club.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://usuarios.club/usuarios/src5/CanaldelasEstrellas/iptv/club.m3u8
+
+#EXTINF:-1,Canal de las Estrellas (Opcion 2)
+http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/iptv/club.m3u8
+
+#EXTINF:-1,Canal de las Estrellas (720p)
+http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/iptv/club/hd.m3u8
+
+#EXTINF:-1,Canal+ Accion
+http://usuarios.club/usuarios/src5/MoviAccion/iptv/club.m3u8
+
+#EXTINF:-1,Canal+ Toros
+http://usuarios.club/usuarios/src5/Toros/iptv/club.m3u8
+
+#EXTINF:-1,Capital TV
+http://usuarios.club/usuarios/src4/CapitalTV/iptv/club.m3u8
+
+#EXTINF:-1,Caracol
+http://usuarios.club/usuarios/src5/Caracol/iptv/club.m3u8
+
+#EXTINF:-1,Caracol (Opcion 2)
+http://usuarios.club/usuarios/src2/CARACOL_HD/iptv/club.m3u8
+
+#EXTINF:-1,Caracol (720p)
+http://usuarios.club/usuarios/src2/CARACOL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Caracol Internacional (Opcion 2)
+http://usuarios.club/usuarios/src2/CARACOL_INT/iptv/club.m3u8
+
+#EXTINF:-1,Caracol Internacional (720p)
+http://usuarios.club/usuarios/src2/CARACOL_INT/iptv/club/hd.m3u8
+
+#EXTINF:-1,Caracol Op. 2
+http://usuarios.club/usuarios/src4/Caracol2/iptv/club.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://usuarios.club/usuarios/src1/CartoonNetwork/iptv/club.m3u8
+
+#EXTINF:-1,Cartoon Network (Opcion 2)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club.m3u8
+
+#EXTINF:-1,Cartoon Network (720p)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,CDF Premium
+http://usuarios.club/usuarios/src5/CDFPremium/iptv/club.m3u8
+
+#EXTINF:-1,CDO
+http://usuarios.club/usuarios/src5/CDO/iptv/club.m3u8
+
+#EXTINF:-1,CDO Premium
+http://usuarios.club/usuarios/src5/CDOPremium/iptv/club.m3u8
+
+#EXTINF:-1,Chapulin Colorado 24/7
+http://usuarios.club/usuarios/src3/ChapulinColorado/iptv/club.m3u8
+
+#EXTINF:-1,Chespirito 24/7
+http://usuarios.club/usuarios/src3/Chespirito/iptv/club.m3u8
+
+#EXTINF:-1,Chilevision
+http://usuarios.club/usuarios/src4/Chilevision/iptv/club.m3u8
+
+#EXTINF:-1,Cine Latino (Opcion 2)
+http://usuarios.club/usuarios/src2/CINELATINO/iptv/club.m3u8
+
+#EXTINF:-1,Cine Latino (720p)
+http://usuarios.club/usuarios/src2/CINELATINO/iptv/club/hd.m3u8
+
+#EXTINF:-1,Cinecanal (Opcion 2)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club.m3u8
+
+#EXTINF:-1,Cinecanal (720p)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Cinecanal+
+http://usuarios.club/usuarios/src1/CinecanalHD/iptv/club.m3u8
+
+#EXTINF:-1,Cinema Dinamita (Opcion 2)
+http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/iptv/club.m3u8
+
+#EXTINF:-1,Cinema Dinamita (720p)
+http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/iptv/club/hd.m3u8
+
+#EXTINF:-1,Cinemax (Opcion 2)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club.m3u8
+
+#EXTINF:-1,Cinemax (720p)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club/hd.m3u8
+
+#EXTINF:-1,Claro Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/iptv/club.m3u8
+
+#EXTINF:-1,Claro Sports (720p)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,CNN en Español
+http://usuarios.club/usuarios/src5/CNNenEspanol/iptv/club.m3u8
+
+#EXTINF:-1,CNN en Español (Opcion 2)
+http://usuarios.club/usuarios/src2/CNN_ESPANOL/iptv/club.m3u8
+
+#EXTINF:-1,CNN en Español (720p)
+http://usuarios.club/usuarios/src2/CNN_ESPANOL/iptv/club/hd.m3u8
+
+#EXTINF:-1,Comedy Central
+http://usuarios.club/usuarios/src1/ComedyCentralHD/iptv/club.m3u8
+
+#EXTINF:-1,Comedy Central (Opcion 2)
+http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/iptv/club.m3u8
+
+#EXTINF:-1,Comedy Central (720p)
+http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,CTNI
+http://usuarios.club/usuarios/src4/CTNI/iptv/club.m3u8
+
+#EXTINF:-1,De Película
+http://usuarios.club/usuarios/src1/DePelicula/iptv/club.m3u8
+
+#EXTINF:-1,De Película (Opcion 2)
+http://usuarios.club/usuarios/src2/DEPELICULA/iptv/club.m3u8
+
+#EXTINF:-1,De Película (720p)
+http://usuarios.club/usuarios/src2/DEPELICULA/iptv/club/hd.m3u8
+
+#EXTINF:-1,DeporTV
+http://usuarios.club/usuarios/src4/DeporTV/iptv/club.m3u8
+
+#EXTINF:-1,DirectTV Sports
+http://usuarios.club/usuarios/src5/DirectTVSports/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://usuarios.club/usuarios/src1/DiscoveryChannel/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Channel (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery Civilization
+http://usuarios.club/usuarios/src1/DiscoveryCivilization/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Civilization (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Civilization (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery H&H
+http://usuarios.club/usuarios/src1/DiscoveryHH/iptv/club.m3u8
+
+#EXTINF:-1,Discovery H&H (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery H&H (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery Kids (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Kids (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery SCI
+http://usuarios.club/usuarios/src1/DiscoverySCI/iptv/club.m3u8
+
+#EXTINF:-1,Discovery SCI (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club.m3u8
+
+#EXTINF:-1,Discovery SCI (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery Theater
+http://usuarios.club/usuarios/src1/DiscoveryTheaterHD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Theater (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Theater (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://usuarios.club/usuarios/src1/DiscoveryTurbo/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Turbo (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club.m3u8
+
+#EXTINF:-1,Discovery Turbo (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club/hd.m3u8
+
+#EXTINF:-1,Discovery World (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club.m3u8
+
+#EXTINF:-1,Discovery World (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Disney Channel
+http://usuarios.club/usuarios/src1/DisneyChannel/iptv/club.m3u8
+
+#EXTINF:-1,Disney Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club.m3u8
+
+#EXTINF:-1,Disney Channel (720p)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Disney Junior
+http://usuarios.club/usuarios/src1/DisneyJunior/iptv/club.m3u8
+
+#EXTINF:-1,Disney Junior (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club.m3u8
+
+#EXTINF:-1,Disney Junior (720p)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club/hd.m3u8
+
+#EXTINF:-1,Disney XD
+http://usuarios.club/usuarios/src1/DisneyXD/iptv/club.m3u8
+
+#EXTINF:-1,Disney XD (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club.m3u8
+
+#EXTINF:-1,Disney XD (720p)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Distrito Comedia
+http://usuarios.club/usuarios/src1/DistritoComedia/iptv/club.m3u8
+
+#EXTINF:-1,Djing Ibiza
+http://usuarios.club/usuarios/src4/DjingIbiza/iptv/club.m3u8
+
+#EXTINF:-1,Dragon Ball 24/7
+http://usuarios.club/usuarios/src3/DragonBall/iptv/club.m3u8
+
+#EXTINF:-1,Dragon Ball GT 24/7
+http://usuarios.club/usuarios/src3/DragonBallGT/iptv/club.m3u8
+
+#EXTINF:-1,Dragon Ball Super 24/7
+http://usuarios.club/usuarios/src3/DragonBallSuper/iptv/club.m3u8
+
+#EXTINF:-1,Dragon Ball Z 24/7 Op.2
+http://usuarios.club/usuarios/src3/DragonBallZ2/iptv/club.m3u8
+
+#EXTINF:-1,DW Latinoamerica
+http://usuarios.club/usuarios/src4/DW/iptv/club.m3u8
+
+#EXTINF:-1,E!
+http://usuarios.club/usuarios/src1/EEntertainment/iptv/club.m3u8
+
+#EXTINF:-1,E! (Opcion 2)
+http://usuarios.club/usuarios/src2/E/iptv/club.m3u8
+
+#EXTINF:-1,E! (720p)
+http://usuarios.club/usuarios/src2/E/iptv/club/hd.m3u8
+
+#EXTINF:-1,El 13 Argentina
+http://usuarios.club/usuarios/src5/El13Argentina/iptv/club.m3u8
+
+#EXTINF:-1,El Gourmet
+http://usuarios.club/usuarios/src1/ElGourmet/iptv/club.m3u8
+
+#EXTINF:-1,El Gourmet (Opcion 2)
+http://usuarios.club/usuarios/src2/GOURMET_HD/iptv/club.m3u8
+
+#EXTINF:-1,El Gourmet (720p)
+http://usuarios.club/usuarios/src2/GOURMET_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Enlace Juvenil
+http://usuarios.club/usuarios/src4/EnlaceJuvenil/iptv/club.m3u8
+
+#EXTINF:-1,Enlace TV
+http://usuarios.club/usuarios/src4/EnlaceTV/iptv/club.m3u8
+
+#EXTINF:-1,ESPN
+http://usuarios.club/usuarios/src1/ESPN/iptv/club.m3u8
+
+#EXTINF:-1,ESPN (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club.m3u8
+
+#EXTINF:-1,ESPN (720p)
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,ESPN + (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club.m3u8
+
+#EXTINF:-1,ESPN + (720p)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club/hd.m3u8
+#EXTM3U
+
+#EXTINF:-1,ESPN 2
+http://usuarios.club/usuarios/src1/ESPN2/iptv/club.m3u8
+
+#EXTINF:-1,ESPN 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club.m3u8
+
+#EXTINF:-1,ESPN 2 (720p)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,ESPN 2 MX
+http://usuarios.club/usuarios/src1/ESPN2MX/iptv/club.m3u8
+
+#EXTINF:-1,ESPN 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_3_HD/iptv/club.m3u8
+
+#EXTINF:-1,ESPN 3 (720p)
+http://usuarios.club/usuarios/src2/ESPN_3_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,ESPN MX
+http://usuarios.club/usuarios/src1/ESPNMX/iptv/club.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://usuarios.club/usuarios/src4/Eurosport2/iptv/club.m3u8
+
+#EXTINF:-1,F1 TV
+http://usuarios.club/usuarios/src5/F1TV/iptv/club.m3u8
+
+#EXTINF:-1,Film Zone
+http://usuarios.club/usuarios/src1/FilmZoneHD/iptv/club.m3u8
+
+#EXTINF:-1,Film Zone (Opcion 2)
+http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club.m3u8
+
+#EXTINF:-1,Film Zone (720p)
+http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Foro TV
+http://usuarios.club/usuarios/src4/ForoTV/iptv/club.m3u8
+
+#EXTINF:-1,Fox
+http://usuarios.club/usuarios/src5/Fox/iptv/club.m3u8
+
+#EXTINF:-1,Fox (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox (720p)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox 1 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX1_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox 1 (720p)
+http://usuarios.club/usuarios/src2/FOX1_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox 1 HD
+http://usuarios.club/usuarios/src1/Fox1HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Action
+http://usuarios.club/usuarios/src1/FoxAction/iptv/club.m3u8
+
+#EXTINF:-1,Fox Action (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Action (720p)
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Action MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_ACTION_MEXICO_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Action MX (720p)
+http://usuarios.club/usuarios/src2/FOX_ACTION_MEXICO_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Cinema
+http://usuarios.club/usuarios/src1/FoxCinema/iptv/club.m3u8
+
+#EXTINF:-1,Fox Cinema (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Cinema (720p)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Cinema Sub (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD_SUB/iptv/club.m3u8
+
+#EXTINF:-1,Fox Cinema Sub (720p)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD_SUB/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Classics
+http://usuarios.club/usuarios/src1/FoxClassics/iptv/club.m3u8
+
+#EXTINF:-1,Fox Classics (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Classics (720p)
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Comedy (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Comedy (720p)
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Family
+http://usuarios.club/usuarios/src5/FoxFamily/iptv/club.m3u8
+
+#EXTINF:-1,Fox Family (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Family (720p)
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Life
+http://usuarios.club/usuarios/src1/FoxLife/iptv/club.m3u8
+
+#EXTINF:-1,Fox Life (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_LIFE_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Life (720p)
+http://usuarios.club/usuarios/src2/FOX_LIFE_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Movies
+http://usuarios.club/usuarios/src1/FoxMovies/iptv/club.m3u8
+
+#EXTINF:-1,Fox Movies (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Movies (720p)
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports
+http://usuarios.club/usuarios/src1/FoxSports/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://usuarios.club/usuarios/src1/FoxSports2/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports 2 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports 2 MX
+http://usuarios.club/usuarios/src1/FoxSports2MX/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports 2 MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXSP2_MX_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports 2 MX (720p)
+http://usuarios.club/usuarios/src2/FOXSP2_MX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports 3 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports MX
+http://usuarios.club/usuarios/src1/FoxSportsMX/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXSP1_MX_HD/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports MX (720p)
+http://usuarios.club/usuarios/src2/FOXSP1_MX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Fox Sports Premium
+http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports Sur
+http://usuarios.club/usuarios/src5/FoxSportsSur/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports Sur 2
+http://usuarios.club/usuarios/src5/FoxSportsSur2/iptv/club.m3u8
+
+#EXTINF:-1,Fox Sports Sur 3
+http://usuarios.club/usuarios/src5/FoxSportsSur3/iptv/club.m3u8
+
+#EXTINF:-1,FX
+http://usuarios.club/usuarios/src1/FX/iptv/club.m3u8
+
+#EXTINF:-1,FX (Opcion 2)
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club.m3u8
+
+#EXTINF:-1,FX (720p)
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Gala TV
+http://usuarios.club/usuarios/src1/GalaTV/iptv/club.m3u8
+
+#EXTINF:-1,Glitz
+http://usuarios.club/usuarios/src1/Glitz/iptv/club.m3u8
+
+#EXTINF:-1,Gol TV
+http://usuarios.club/usuarios/src5/GolTV/iptv/club.m3u8
+
+#EXTINF:-1,Gol TV HD
+http://usuarios.club/usuarios/src5/GolTVHD/iptv/club.m3u8
+
+#EXTINF:-1,Golden
+http://usuarios.club/usuarios/src1/GoldenHD/iptv/club.m3u8
+
+#EXTINF:-1,Golden (Opcion 2)
+http://usuarios.club/usuarios/src2/GOLDEN_HD/iptv/club.m3u8
+
+#EXTINF:-1,Golden (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Golden Edge
+http://usuarios.club/usuarios/src1/GoldenEdge/iptv/club.m3u8
+
+#EXTINF:-1,Golden Premier (Opcion 2)
+http://usuarios.club/usuarios/src2/GOLDEN_PREMIER_HD/iptv/club.m3u8
+
+#EXTINF:-1,Golden Premier (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_PREMIER_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,H2
+http://usuarios.club/usuarios/src5/H2/iptv/club.m3u8
+
+#EXTINF:-1,H2 (Opcion 2)
+http://usuarios.club/usuarios/src2/H2/iptv/club.m3u8
+
+#EXTINF:-1,H2 (720p)
+http://usuarios.club/usuarios/src2/H2/iptv/club/hd.m3u8
+
+#EXTINF:-1,HBO
+http://usuarios.club/usuarios/src5/HBO/iptv/club.m3u8
+
+#EXTINF:-1,HBO 2
+http://usuarios.club/usuarios/src5/HBO2/iptv/club.m3u8
+
+#EXTINF:-1,HBO 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club.m3u8
+
+#EXTINF:-1,HBO 2 (720p)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,HBO Family
+http://usuarios.club/usuarios/src5/HBOFamily/iptv/club.m3u8
+
+#EXTINF:-1,HBO Family (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club.m3u8
+
+#EXTINF:-1,HBO Family (720p)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,HBO Plus
+http://usuarios.club/usuarios/src5/HBOPlus/iptv/club.m3u8
+
+#EXTINF:-1,HBO Plus (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club.m3u8
+
+#EXTINF:-1,HBO Plus (720p)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,HBO Signature (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club.m3u8
+
+#EXTINF:-1,HBO Signature (720p)
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,HBO Sub (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club.m3u8
+
+#EXTINF:-1,HBO Sub (720p)
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club/hd.m3u8
+
+#EXTINF:-1,Heart TV
+http://usuarios.club/usuarios/src4/HeartTV/iptv/club.m3u8
+
+#EXTINF:-1,History Channel
+http://usuarios.club/usuarios/src1/HistoryChannel/iptv/club.m3u8
+
+#EXTINF:-1,History Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club.m3u8
+
+#EXTINF:-1,History Channel (720p)
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Hola TV (Opcion 2)
+http://usuarios.club/usuarios/src2/HOLA_TV_HD/iptv/club.m3u8
+
+#EXTINF:-1,Hola TV (720p)
+http://usuarios.club/usuarios/src2/HOLA_TV_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,HTV
+http://usuarios.club/usuarios/src5/HTV/iptv/club.m3u8
+
+#EXTINF:-1,I.Sat
+http://usuarios.club/usuarios/src1/ISat/iptv/club.m3u8
+
+#EXTINF:-1,I.Sat (Opcion 2)
+http://usuarios.club/usuarios/src2/ISAT/iptv/club.m3u8
+
+#EXTINF:-1,I.Sat (720p)
+http://usuarios.club/usuarios/src2/ISAT/iptv/club/hd.m3u8
+
+#EXTINF:-1,Investigation Discovery
+http://usuarios.club/usuarios/src1/InvestigationDiscovery/iptv/club.m3u8
+
+#EXTINF:-1,Investigation Discovery (Opcion 2)
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club.m3u8
+
+#EXTINF:-1,Investigation Discovery (720p)
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Juce TV
+http://usuarios.club/usuarios/src4/JuceTV/iptv/club.m3u8
+
+#EXTINF:-1,La Sexta
+http://usuarios.club/usuarios/src4/LaSexta/iptv/club.m3u8
+
+#EXTINF:-1,Lifetime
+http://usuarios.club/usuarios/src1/Lifetime/iptv/club.m3u8
+
+#EXTINF:-1,Los Simpson 24/7
+http://usuarios.club/usuarios/src5/LosSimpson/iptv/club.m3u8
+
+#EXTINF:-1,m2o TV
+http://usuarios.club/usuarios/src4/m2oTV/iptv/club.m3u8
+
+#EXTINF:-1,Max Prime
+http://usuarios.club/usuarios/src5/MaxPrime/iptv/club.m3u8
+
+#EXTINF:-1,Max Prime (Opcion 2)
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club.m3u8
+
+#EXTINF:-1,Max Prime (720p)
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Max Up
+http://usuarios.club/usuarios/src5/MaxUp/iptv/club.m3u8
+
+#EXTINF:-1,Max Up (Opcion 2)
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club.m3u8
+
+#EXTINF:-1,Max Up (720p)
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Mega (España)
+http://usuarios.club/usuarios/src4/MegaEspana/iptv/club.m3u8
+
+#EXTINF:-1,Miami TV
+http://usuarios.club/usuarios/src4/MiamiTV/iptv/club.m3u8
+
+#EXTINF:-1,MLB Network
+http://usuarios.club/usuarios/src5/MLBNetwork/iptv/club.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://usuarios.club/usuarios/src5/MoviDeportes/iptv/club.m3u8
+
+#EXTINF:-1,Movistar Deportes 2
+http://usuarios.club/usuarios/src5/MoviDeportes2/iptv/club.m3u8
+
+#EXTINF:-1,Movistar Futbol
+http://usuarios.club/usuarios/src5/MoviFutbol/iptv/club.m3u8
+
+#EXTINF:-1,Movistar Xtra
+http://usuarios.club/usuarios/src5/MoviXtra/iptv/club.m3u8
+
+#EXTINF:-1,Mr. Bean 24/7
+http://usuarios.club/usuarios/src3/MrBean/iptv/club.m3u8
+
+#EXTINF:-1,MTV
+http://usuarios.club/usuarios/src1/MTV/iptv/club.m3u8
+
+#EXTINF:-1,MTV (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HD/iptv/club.m3u8
+
+#EXTINF:-1,MTV (720p)
+http://usuarios.club/usuarios/src2/MTV_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,MTV Hits (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HITS/iptv/club.m3u8
+
+#EXTINF:-1,MTV Hits (720p)
+http://usuarios.club/usuarios/src2/MTV_HITS/iptv/club/hd.m3u8
+
+#EXTINF:-1,MTV Live
+http://usuarios.club/usuarios/src1/MTVLive/iptv/club.m3u8
+
+#EXTINF:-1,MTV Live (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/iptv/club.m3u8
+
+#EXTINF:-1,MTV Live (720p)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Multimedios
+http://usuarios.club/usuarios/src1/Multimedios/iptv/club.m3u8
+
+#EXTINF:-1,MVS Noticias
+http://usuarios.club/usuarios/src4/MVS/iptv/club.m3u8
+
+#EXTINF:-1,Naruto 24/7
+http://usuarios.club/usuarios/src3/Naruto/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo
+http://usuarios.club/usuarios/src1/NatGeo/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo (720p)
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Nat Geo Kids
+http://usuarios.club/usuarios/src1/NatGeoKids/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo Kids (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_KIDS_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo Kids (720p)
+http://usuarios.club/usuarios/src2/NATGEO_KIDS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Nat Geo Kids MX (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEOKIDS_MX_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo Kids MX (720p)
+http://usuarios.club/usuarios/src2/NATGEOKIDS_MX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Nat Geo MX (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_MX_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nat Geo MX (720p)
+http://usuarios.club/usuarios/src2/NATGEO_MX_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://usuarios.club/usuarios/src1/NatGeoWild/iptv/club.m3u8
+
+#EXTINF:-1,Neox
+http://usuarios.club/usuarios/src4/Neox/iptv/club.m3u8
+
+#EXTINF:-1,Nick 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nick 2 (720p)
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Nick JR
+http://usuarios.club/usuarios/src1/NickJR/iptv/club.m3u8
+
+#EXTINF:-1,Nick Toons
+http://usuarios.club/usuarios/src1/NickToons/iptv/club.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://usuarios.club/usuarios/src1/Nickelodeon/iptv/club.m3u8
+
+#EXTINF:-1,Nickelodeon (Opcion 2)
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club.m3u8
+
+#EXTINF:-1,Nickelodeon (720p)
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,ORBE 21
+http://usuarios.club/usuarios/src4/ORBE21/iptv/club.m3u8
+
+#EXTINF:-1,Paramount
+http://usuarios.club/usuarios/src5/Paramount/iptv/club.m3u8
+
+#EXTINF:-1,Paramount (Opcion 2)
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club.m3u8
+
+#EXTINF:-1,Paramount (720p)
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,PERU: América TV
+http://usuarios.club/usuarios/src4/AmericaTV/iptv/club.m3u8
+
+#EXTINF:-1,PERU: Antares TV
+http://usuarios.club/usuarios/src4/AntaresTV/iptv/club.m3u8
+
+#EXTINF:-1,PERU: BHTV
+http://usuarios.club/usuarios/src4/BHTV/iptv/club.m3u8
+
+#EXTINF:-1,PERU: Plus TV
+http://usuarios.club/usuarios/src4/PlusTV/iptv/club.m3u8
+
+#EXTINF:-1,PERU: RBC
+http://usuarios.club/usuarios/src4/RBC/iptv/club.m3u8
+
+#EXTINF:-1,PERU: RPP
+http://usuarios.club/usuarios/src4/RPP/iptv/club.m3u8
+
+#EXTINF:-1,PERU: TV Peru
+http://usuarios.club/usuarios/src4/TVPeru/iptv/club.m3u8
+
+#EXTINF:-1,PERU: Willax TV
+http://usuarios.club/usuarios/src4/WillaxTV/iptv/club.m3u8
+
+#EXTINF:-1,RCG TV Coahuila
+http://usuarios.club/usuarios/src4/RCGTVCoahuila/iptv/club.m3u8
+
+#EXTINF:-1,RCN
+http://usuarios.club/usuarios/src5/RCN/iptv/club.m3u8
+
+#EXTINF:-1,RCN Novelas (Opcion 2)
+http://usuarios.club/usuarios/src2/RCN_TELENOVELAS/iptv/club.m3u8
+
+#EXTINF:-1,RCN Novelas (720p)
+http://usuarios.club/usuarios/src2/RCN_TELENOVELAS/iptv/club/hd.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://usuarios.club/usuarios/src4/RealMadridTV/iptv/club.m3u8
+
+#EXTINF:-1,Ritmoson Latino
+http://usuarios.club/usuarios/src1/RitmosonLatino/iptv/club.m3u8
+
+#EXTINF:-1,RT HD
+http://usuarios.club/usuarios/src4/RTHD/iptv/club.m3u8
+
+#EXTINF:-1,Sony
+http://usuarios.club/usuarios/src1/SonyHD/iptv/club.m3u8
+
+#EXTINF:-1,Sony (Opcion 2)
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club.m3u8
+
+#EXTINF:-1,Sony (720p)
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Space HD
+http://usuarios.club/usuarios/src1/SpaceHD/iptv/club.m3u8
+
+#EXTINF:-1,Space HD (Opcion 2)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club.m3u8
+
+#EXTINF:-1,Space HD (720p)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Studio Universal
+http://usuarios.club/usuarios/src1/StudioUniversal/iptv/club.m3u8
+
+#EXTINF:-1,Studio Universal (Opcion 2)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club.m3u8
+
+#EXTINF:-1,Studio Universal (720p)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club/hd.m3u8
+
+#EXTINF:-1,SyFy
+http://usuarios.club/usuarios/src1/SyFy/iptv/club.m3u8
+
+#EXTINF:-1,Taquilla 1
+http://usuarios.club/usuarios/src5/Taquilla1/iptv/club.m3u8
+
+#EXTINF:-1,Taquilla 2
+http://usuarios.club/usuarios/src5/Taquilla2/iptv/club.m3u8
+
+#EXTINF:-1,Taquilla 3
+http://usuarios.club/usuarios/src5/Taquilla3/iptv/club.m3u8
+
+#EXTINF:-1,Taquilla 4
+http://usuarios.club/usuarios/src5/Taquilla4/iptv/club.m3u8
+
+#EXTINF:-1,Taquilla 5
+http://usuarios.club/usuarios/src5/Taquilla5/iptv/club.m3u8
+
+#EXTINF:-1,TBS Very Funny
+http://usuarios.club/usuarios/src1/TBSVeryFunny/iptv/club.m3u8
+
+#EXTINF:-1,TBS Very Funny (Opcion 2)
+http://usuarios.club/usuarios/src2/TBS_HD/iptv/club.m3u8
+
+#EXTINF:-1,TBS Very Funny (720p)
+http://usuarios.club/usuarios/src2/TBS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,TCM
+http://usuarios.club/usuarios/src1/TCM/iptv/club.m3u8
+
+#EXTINF:-1,TCM (Opcion 2)
+http://usuarios.club/usuarios/src2/TCM/iptv/club.m3u8
+
+#EXTINF:-1,TCM (720p)
+http://usuarios.club/usuarios/src2/TCM/iptv/club/hd.m3u8
+
+#EXTINF:-1,TDN
+http://usuarios.club/usuarios/src5/TDN/iptv/club.m3u8
+
+#EXTINF:-1,Telehit
+http://usuarios.club/usuarios/src1/Telehit/iptv/club.m3u8
+
+#EXTINF:-1,Telemundo
+http://usuarios.club/usuarios/src5/Telemundo/iptv/club.m3u8
+
+#EXTINF:-1,Telemundo (Opcion 2)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club.m3u8
+
+#EXTINF:-1,Telemundo (720p)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club/hd.m3u8
+
+#EXTINF:-1,Telemundo 49
+http://usuarios.club/usuarios/src4/Telemundo2/iptv/club.m3u8
+
+#EXTINF:-1,Telpin Tv
+http://usuarios.club/usuarios/src4/TelpinTv/iptv/club.m3u8
+
+#EXTINF:-1,Tiin
+http://usuarios.club/usuarios/src1/Tiin/iptv/club.m3u8
+
+#EXTINF:-1,TLC
+http://usuarios.club/usuarios/src1/TLC/iptv/club.m3u8
+
+#EXTINF:-1,TLC (Opcion 2)
+http://usuarios.club/usuarios/src2/TLC_HD/iptv/club.m3u8
+
+#EXTINF:-1,TLC (720p)
+http://usuarios.club/usuarios/src2/TLC_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Tlnovelas
+http://usuarios.club/usuarios/src5/Tlnovelas/iptv/club.m3u8
+
+#EXTINF:-1,TLT Venezuela
+http://usuarios.club/usuarios/src4/TLTVenezuela/iptv/club.m3u8
+
+#EXTINF:-1,TNT
+http://usuarios.club/usuarios/src1/TNT/iptv/club.m3u8
+
+#EXTINF:-1,TNT (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club.m3u8
+
+#EXTINF:-1,TNT (720p)
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,TNT Series
+http://usuarios.club/usuarios/src1/TNTSeries/iptv/club.m3u8
+
+#EXTINF:-1,TNT Series (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club.m3u8
+
+#EXTINF:-1,TNT Series (720p)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,TNT Sports
+http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
+
+#EXTINF:-1,Tooncast
+http://usuarios.club/usuarios/src1/Tooncast/iptv/club.m3u8
+
+#EXTINF:-1,Tooncast (Opcion 2)
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club.m3u8
+
+#EXTINF:-1,Tooncast (720p)
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club/hd.m3u8
+
+#EXTINF:-1,TruTV
+http://usuarios.club/usuarios/src1/TruTV/iptv/club.m3u8
+
+#EXTINF:-1,Tu Musica HD
+http://usuarios.club/usuarios/src5/TuMusicaHD/iptv/club.m3u8
+
+#EXTINF:-1,TVBrasil
+http://usuarios.club/usuarios/src4/TVBrasil/iptv/club.m3u8
+
+#EXTINF:-1,TVMas Veracruz
+http://usuarios.club/usuarios/src4/TVMasVeracruz/iptv/club.m3u8
+
+#EXTINF:-1,TVN Ecuador
+http://usuarios.club/usuarios/src4/TVNEcuador/iptv/club.m3u8
+
+#EXTINF:-1,TVO Canal 23
+http://usuarios.club/usuarios/src4/TVOCanal23/iptv/club.m3u8
+
+#EXTINF:-1,TVT (TV Tlaxcala)
+http://usuarios.club/usuarios/src4/TVTlaxcala/iptv/club.m3u8
+
+#EXTINF:-1,Tyc Sports
+http://usuarios.club/usuarios/src5/TycSports/iptv/club.m3u8
+
+#EXTINF:-1,UFC Network
+http://usuarios.club/usuarios/src5/UFCNetwork/iptv/club.m3u8
+
+#EXTINF:-1,Unicable
+http://usuarios.club/usuarios/src1/Unicable/iptv/club.m3u8
+
+#EXTINF:-1,Unicable (Opcion 2)
+http://usuarios.club/usuarios/src2/UNICABLE/iptv/club.m3u8
+
+#EXTINF:-1,Unicable (720p)
+http://usuarios.club/usuarios/src2/UNICABLE/iptv/club/hd.m3u8
+
+#EXTINF:-1,Universal (Opcion 2)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club.m3u8
+
+#EXTINF:-1,Universal (720p)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club/hd.m3u8
+
+#EXTINF:-1,Universal HD
+http://usuarios.club/usuarios/src1/UniversalHD/iptv/club.m3u8
+
+#EXTINF:-1,Univision
+http://usuarios.club/usuarios/src5/Univision/iptv/club.m3u8
+
+#EXTINF:-1,Univisión Deportes
+http://usuarios.club/usuarios/src5/UnivisionDeportes/iptv/club.m3u8
+
+#EXTINF:-1,Univisión TDN
+http://usuarios.club/usuarios/src5/UnivisionTDN/iptv/club.m3u8
+
+#EXTINF:-1,Univision Tlnovelas
+http://usuarios.club/usuarios/src5/UnivisionTlnovelas/iptv/club.m3u8
+
+#EXTINF:-1,USA: Bravo! HD
+http://usuarios.club/usuarios/src5/BravoHD/iptv/club.m3u8
+
+#EXTINF:-1,USA: CW
+http://usuarios.club/usuarios/src5/CW/iptv/club.m3u8
+
+#EXTINF:-1,USA: ESPN 1
+http://usuarios.club/usuarios/src5/ESPN1EN/iptv/club.m3u8
+
+#EXTINF:-1,USA: ESPN 2
+http://usuarios.club/usuarios/src5/ESPN2EN/iptv/club.m3u8
+
+#EXTINF:-1,USA: Fox Sports 1
+http://usuarios.club/usuarios/src5/FoxSports1EN/iptv/club.m3u8
+
+#EXTINF:-1,USA: Fox Sports 2
+http://usuarios.club/usuarios/src5/FoxSports2EN/iptv/club.m3u8
+
+#EXTINF:-1,USA: Hallmark
+http://usuarios.club/usuarios/src5/Hallmark/iptv/club.m3u8
+
+#EXTINF:-1,USA: HBO
+http://usuarios.club/usuarios/src5/HBOEN/iptv/club.m3u8
+
+#EXTINF:-1,USA: HBO Comedy
+http://usuarios.club/usuarios/src5/HBOComedy/iptv/club.m3u8
+
+#EXTINF:-1,USA: NBC HD
+http://usuarios.club/usuarios/src5/NBCHD/iptv/club.m3u8
+
+#EXTINF:-1,USA: NBC Sports
+http://usuarios.club/usuarios/src5/NBCSports/iptv/club.m3u8
+
+#EXTINF:-1,USA: NBCSN
+http://usuarios.club/usuarios/src5/NBCSN/iptv/club.m3u8
+
+#EXTINF:-1,VH1 (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1/iptv/club.m3u8
+
+#EXTINF:-1,VH1 (720p)
+http://usuarios.club/usuarios/src2/VH1/iptv/club/hd.m3u8
+
+#EXTINF:-1,VH1 Classic (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1_CLASSIC/iptv/club.m3u8
+
+#EXTINF:-1,VH1 Classic (720p)
+http://usuarios.club/usuarios/src2/VH1_CLASSIC/iptv/club/hd.m3u8
+
+#EXTINF:-1,VH1 HD (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1_HD/iptv/club.m3u8
+
+#EXTINF:-1,VH1 HD (720p)
+http://usuarios.club/usuarios/src2/VH1_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Videos: 1Music
+http://usuarios.club/usuarios/src4/1Music/iptv/club.m3u8
+
+#EXTINF:-1,Videos: 4Music
+http://usuarios.club/usuarios/src4/4Music/iptv/club.m3u8
+
+#EXTINF:-1,Videos: Company Radio TV
+http://usuarios.club/usuarios/src4/CompanyTV/iptv/club.m3u8
+
+#EXTINF:-1,Videos: Cool 103.7 TV
+http://usuarios.club/usuarios/src4/Cool103TV/iptv/club.m3u8
+
+#EXTINF:-1,Videos: Dream TV
+http://usuarios.club/usuarios/src4/DreamTV/iptv/club.m3u8
+
+#EXTINF:-1,Virgin TV
+http://usuarios.club/usuarios/src4/VirginTV/iptv/club.m3u8
+
+#EXTINF:-1,VTV2 Chile
+http://usuarios.club/usuarios/src4/VTV2Chile/iptv/club.m3u8
+
+#EXTINF:-1,Warner Channel HD
+http://usuarios.club/usuarios/src1/WarnerChannelHD/iptv/club.m3u8
+
+#EXTINF:-1,Warner Channel HD (Opcion 2)
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club.m3u8
+
+#EXTINF:-1,Warner Channel HD (720p)
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,Win Sports
+http://usuarios.club/usuarios/src5/WinSports/iptv/club.m3u8
+
+#EXTINF:-1,Win Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/WINSPORTS_HD/iptv/club.m3u8
+
+#EXTINF:-1,Win Sports (720p)
+http://usuarios.club/usuarios/src2/WINSPORTS_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1,WWE Network
+http://usuarios.club/usuarios/src5/WWENetwork/iptv/club.m3u8
